@@ -17,6 +17,7 @@ Deformable objects change substantially his initial shape when a pressure is app
 
  The last group is composed by plastic bags with a number of small objects. Bags are shuffled before every grasp, so that the objects in the bag are placed in different positions.
 
+
 ## Cite this work
 
  Francisco Pastor, Jorge Garcıa-Gonzalez, Juan M. Gandarias, Daniel Medina, Alfonso J. Garcıa-Cerezo, Jesus M. Gomez-de-Gabriel, "Bayesian  and  Neural  Inference  on  LSTM-based  Object  Recognitionfrom  Tactile  and  Kinesthetic  Information"

@@ -22,7 +22,7 @@ Deformable objects change substantially his initial shape when a pressure is app
 ![](Images/Inbag.png)
 
 ## Data colection procedure
-
+An example of how the dataset of the group of objects has been collected is presented in the video: 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/Dp8K5EPEn18/0.jpg)](https://www.youtube.com/watch?v=Dp8K5EPEn18)
 
 ## Cite this work

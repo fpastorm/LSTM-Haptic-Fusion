@@ -11,14 +11,13 @@ The dataset is divided in two parts: kinesthetic and tactile data. This dataset 
 These objects are considered as rigid due to they barely change their shape when the gripper tightens them.
 
 * **Deformable Objects**
+[Deformable.pdf](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/degoes-consulting/lambdaconf-2015/master/speakers/jdegoes/intro-purescript/presentation.pdf)
 
 Deformable objects change substantially his initial shape when a pressure is applied over them, but they recover its initial shape when the pressure ends.
 
-[Deformable.pdf](https://github.com/TaISLab/CNN-based-Methods-for-Tactile-Object-Recognition/files/5252134/Deformable.pdf)
 
-[embed]https://github.com/TaISLab/CNN-based-Methods-for-Tactile-Object-Recognition/files/5252134/Deformable.pdf[/embed]
 * **In-bag Objects**
-<img src="Images/Inbag.pdf">
+
  The last group is composed by plastic bags with a number of small rigid objects. Bags are shuffled before every grasp, so that the objects in the bag are placed in different positions.
 ![](Images/Inbag.png)
 

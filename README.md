@@ -9,13 +9,13 @@ The dataset is divided in two parts: kinesthetic and tactile data. This dataset 
 * **Rigid Objects**
 
 These objects are considered as rigid due to they barely change their shape when the gripper tightens them.
-
+![](Images/Rigid.png)
 * **Deformable Objects**
 
 
 Deformable objects change substantially his initial shape when a pressure is applied over them, but they recover its initial shape when the pressure ends.
 
-
+![](Images/Deformable.png)
 * **In-bag Objects**
 
  The last group is composed by plastic bags with a number of small rigid objects. Bags are shuffled before every grasp, so that the objects in the bag are placed in different positions.

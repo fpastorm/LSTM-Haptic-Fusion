@@ -14,6 +14,7 @@ These objects are considered as rigid due to they barely change their shape when
 
 Deformable objects change substantially his initial shape when a pressure is applied over them, but they recover its initial shape when the pressure ends.
 * **In-bag Objects**
+
  The last group is composed by plastic bags with a number of small objects. Bags are shuffled before every grasp, so that the objects in the bag are placed in different positions.
 
 ## Cite this work

@@ -30,9 +30,9 @@ An example of how the dataset of the group of objects has been collected is pres
 ## Training the LSTM Networks
 To train the Neural Networks, download the dataset and change the "FUSION2020_FOLDER_PATH" to your path. Execute all cells in order to get the following data:
 
-* **Output Matrix** An output matrix is created with the probabilities obtained testing the neural network.
-* **Data visualization** A visualization of the data previously loaded. Tactile data is respresented as 21 frames and  kinesthetic as a 4x41 matrix.
-* **Data visualization**
+* **Output Matrix.** An output matrix is created with the probabilities obtained testing the neural network.
+* **Data visualization.** A visualization of the data previously loaded. Tactile data is respresented as 21 images and  kinesthetic as a 4x41 matrix.
+* **Accuracy and loss.** The loss and accuracy of the training  and validation set is represented among the epochs.
 
 
 

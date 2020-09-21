@@ -23,6 +23,8 @@ Deformable objects change substantially his initial shape when a pressure is app
 
 ## Data colection procedure
 An example of how the dataset of the group of objects has been collected is presented in the video: 
+
+
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/TLtVlpFDa4o/0.jpg)](https://youtu.be/TLtVlpFDa4o)
 
 ## Training the LSTM Networks

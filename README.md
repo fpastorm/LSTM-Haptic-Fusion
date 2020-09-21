@@ -25,6 +25,8 @@ Deformable objects change substantially his initial shape when a pressure is app
 An example of how the dataset of the group of objects has been collected is presented in the video: 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/Dp8K5EPEn18/0.jpg)](https://www.youtube.com/watch?v=Dp8K5EPEn18)
 
+## Training the LSTM Networks
+
 ## Cite this work
 
  Francisco Pastor, Jorge Garcıa-Gonzalez, Juan M. Gandarias, Daniel Medina, Alfonso J. Garcıa-Cerezo, Jesus M. Gomez-de-Gabriel, "Bayesian  and  Neural  Inference  on  LSTM-based  Object  Recognitionfrom  Tactile  and  Kinesthetic  Information"

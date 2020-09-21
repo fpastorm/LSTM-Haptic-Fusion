@@ -28,7 +28,11 @@ An example of how the dataset of the group of objects has been collected is pres
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/P8xuYelStcA/0.jpg)](https://youtu.be/P8xuYelStcA)
 
 ## Training the LSTM Networks
-To train the Neural Networks, download the dataset and change the to your current path in 
+To train the Neural Networks, download the dataset and change the "FUSION2020_FOLDER_PATH" to your path. Execute all cells in order to get the following information:
+
+* **In-bag Objects**
+
+
 ## Cite this work
 
  Francisco Pastor, Jorge Garcıa-Gonzalez, Juan M. Gandarias, Daniel Medina, Alfonso J. Garcıa-Cerezo, Jesus M. Gomez-de-Gabriel, "Bayesian  and  Neural  Inference  on  LSTM-based  Object  Recognitionfrom  Tactile  and  Kinesthetic  Information"

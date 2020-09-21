@@ -25,7 +25,7 @@ Deformable objects change substantially his initial shape when a pressure is app
 An example of how the dataset of the group of objects has been collected is presented in the video: 
 
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/TLtVlpFDa4o/0.jpg)](https://youtu.be/TLtVlpFDa4o)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/P8xuYelStcA/0.jpg)](https://youtu.be/P8xuYelStcA)
 
 ## Training the LSTM Networks
 To train the Neural Networks, download the dataset and change the to your current path in 

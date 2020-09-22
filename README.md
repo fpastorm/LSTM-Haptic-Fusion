@@ -40,8 +40,8 @@ To train the NLSTM Networks, download the dataset, change the "FUSION2020_FOLDER
 * **Data visualization.** A visualization of the data previously loaded. Tactile data is respresented as 21 images and  kinesthetic as a 4x41 matrix.
 * **Accuracy and loss.** The loss and accuracy of the training  and validation set is represented over the epochs.
 
-### Perceptron ###
- To train the perceptron, both LSTMs Output matrix must be in the path. Introduce the number of objects previously trained and the number of training objects for the perceptron. Again execute all cells to get the following data: 
+### Neural Fusion ###
+ To train the neural fusion network, both LSTMs Output matrix must be in the path. Introduce the number of objects previously trained and the number of training objects for the perceptron. Again execute all cells to get the following data: 
 
 * **Output Matrix.** An output matrix is created with the probabilities obtained testing the perceptron.
 * **Accuracy and loss.** The loss and accuracy of the training  and validation set is represented over the epochs.

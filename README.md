@@ -44,7 +44,7 @@ To train the NLSTM Networks, download the dataset, change the "FUSION2020_FOLDER
 
 ### Bayesian Inference ###
 
-Finally, to train the bayesian Inference classificatior, the three output matrixes must be in the path. The number of objects trained individually in the LSTM networks has to match with the number of objects pretrained in as input plus the number of training objects for the perception.
+Finally, to train the bayesian Inference classificatior, the three output matrixes must be in the path. The number of objects trained individually in the LSTM networks has to match with the number of objects pretrained in as input plus the number of training objects for the perceptron.
 ## Cite this work
 
  Francisco Pastor, Jorge Garcıa-Gonzalez, Juan M. Gandarias, Daniel Medina, Alfonso J. Garcıa-Cerezo, Jesus M. Gomez-de-Gabriel, "Bayesian  and  Neural  Inference  on  LSTM-based  Object  Recognitionfrom  Tactile  and  Kinesthetic  Information"

@@ -42,6 +42,9 @@ To train the NLSTM Networks, download the dataset, change the "FUSION2020_FOLDER
 * **Output Matrix.** An output matrix is created with the probabilities obtained testing the perceptron.
 * **Accuracy and loss.** The loss and accuracy of the training  and validation set is represented over the epochs.
 
+### Bayesian Inference ###
+
+Finally, to train the bayesian Inference clasificatior, the three output matrixes must be in the path.
 ## Cite this work
 
  Francisco Pastor, Jorge Garcıa-Gonzalez, Juan M. Gandarias, Daniel Medina, Alfonso J. Garcıa-Cerezo, Jesus M. Gomez-de-Gabriel, "Bayesian  and  Neural  Inference  on  LSTM-based  Object  Recognitionfrom  Tactile  and  Kinesthetic  Information"

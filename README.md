@@ -49,7 +49,7 @@ To train the NLSTM Networks, download the dataset, change the "FUSION2020_FOLDER
 
 ### Bayesian Inference ###
 
-Finally, to train the bayesian Inference classification, the three output matrixes must be in the path. The number of objects trained individually in the LSTM networks has to match with the number of objects pretrained as an input plus the number of training objects for the perceptron. In other words, output matrixes must have the same size, which means they have been tested with the same group of objects. The output of this program are the probabilities of each network and his confusion matrix:
+Finally, to train the Bayesian Inference classification, the three output matrixes must be in the path. The number of objects trained individually in the LSTM networks has to match with the number of objects pretrained as an input plus the number of training objects for the perceptron. In other words, output matrixes must have the same size, which means they have been tested with the same group of objects. The output of this program are the probabilities of each network and his confusion matrix:
 
 ![](Images/confusion_matrices_NewResults2f.png)
 

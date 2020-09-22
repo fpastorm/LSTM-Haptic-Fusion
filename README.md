@@ -26,6 +26,10 @@ An example of how the dataset of the group of objects has been collected is pres
 
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/P8xuYelStcA/0.jpg)](https://youtu.be/P8xuYelStcA)
+
+
+The image shows the evolution of both tactile an kinesthetic data over time whenever a squeeze-and-release is made.
+![](Images/figura_datos.png)
 ## Training ##
 
 ### LSTM Networks ###

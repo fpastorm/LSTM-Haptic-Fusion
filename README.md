@@ -62,6 +62,8 @@ Finally, to train the Bayesian Inference classification, the three output matrix
 ## Cite this work
 
  Francisco Pastor, Jorge Garcıa-Gonzalez, Juan M. Gandarias, Daniel Medina, Alfonso J. Garcıa-Cerezo, Jesus M. Gomez-de-Gabriel, "Bayesian  and  Neural  Inference  on  LSTM-based  Object  Recognitionfrom  Tactile  and  Kinesthetic  Information"  in IEEE Robotics and Automation Letters, vol. 6, no. 1, pp. 231-238, Jan. 2021, doi: 10.1109/LRA.2020.3038377.
+ 
+ 
  @ARTICLE{PastorLSTMFusion,
   author={F. {Pastor} and J. {García-González} and J. M. {Gandarias} and D. {Medina} and P. {Closas} and A. J. {García-Cerezo} and J. M. {Gómez-de-Gabriel}},
   journal={IEEE Robotics and Automation Letters}, 
